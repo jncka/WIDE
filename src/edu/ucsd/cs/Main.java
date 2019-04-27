@@ -1,4 +1,4 @@
-package com.company;
+package edu.ucsd.cs;
 
 public class Main {
 
@@ -8,3 +8,4 @@ public class Main {
 	    System.out.println("Esto es una practica eeeeee111h.");
     }
 }
+
